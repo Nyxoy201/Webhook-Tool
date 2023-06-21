@@ -1,8 +1,5 @@
 # Webhook-Spammer
 ![image](https://github.com/Nyxoy201/Webhook-Spammer/assets/137317152/933f32e3-1fe7-4f8f-bf4e-0d6f9a3ad68c)
-![image](https://github.com/Nyxoy201/Webhook-Spammer/assets/137317152/66a85174-3410-4990-b5e3-e92b692df"494)
-
-
 
 
 ## Webhook Spammer is a python tool for spamming with a discord webhook.
