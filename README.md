@@ -15,5 +15,6 @@
 2. Run the start.bat
 3. Enter the desired parameters
 
-![image](https://github.com/Nyxoy201/Webhook-Spammer/assets/137317152/933f32e3-1fe7-4f8f-bf4e-0d6f9a3ad68c)
+![image](https://github.com/Nyxoy201/Webhook-Spammer/assets/137317152/1ce8073d-a61c-4542-b61c-c6307fba9192)
+
 ### Please leave a star!
