@@ -4,7 +4,7 @@
 
 ## Webhook Spammer is a python tool for spamming with a discord webhook.
 
-List of different features:
+### List of different features:
 - Change webhook name
 - Spam a message
 - Choose the number of messages sent
@@ -12,9 +12,9 @@ List of different features:
 - Change webhook image
 - Delete the webhooh once the spam is over
 
-How to use ?
+### How to use ?
 1. Run the install.bat
 2. Run the start.bat
 3. Enter the desired parameters
 
-Please leave a star!
+### Please leave a star!
