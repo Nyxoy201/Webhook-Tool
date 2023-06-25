@@ -12,7 +12,7 @@
 
 ### How to use ?
 1. Run the install.bat
-2. Run the start.bat
+2. Run the main.exe
 3. Enter the desired parameters
 
 ![image](https://github.com/Nyxoy201/Webhook-Spammer/assets/137317152/1ce8073d-a61c-4542-b61c-c6307fba9192)
