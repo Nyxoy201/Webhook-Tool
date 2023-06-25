@@ -8,7 +8,7 @@
 - Choose the number of messages sent
 - Choose cooldown between messages
 - Change webhook image
-- Delete the webhooh 
+- Delete the webhook
 
 ### How to use ?
 1. Run the install.bat
