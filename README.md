@@ -8,7 +8,7 @@
 - Choose the number of messages sent
 - Choose cooldown between messages
 - Change webhook image
-- Delete the webhooh once the spam is over
+- Delete the webhooh 
 
 ### How to use ?
 1. Run the install.bat
