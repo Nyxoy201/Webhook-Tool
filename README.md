@@ -16,7 +16,8 @@
 2. Run the start.bat
 3. Enter the desired parameters
 
-https://cdn.discordapp.com/attachments/1159565704580841504/1160144649156042752/image.png?ex=653397e6&is=652122e6&hm=18d7ff4da1ddcc82e9972eba2fc74872be4aad2dbce955a9f227d318b4e51346&
+![image](https://github.com/Nyxoy201/Webhook-Spammer/assets/137317152/95017526-b856-43b4-ada2-8959e73d51f7)
+
 
 
 ### Please leave a star!
